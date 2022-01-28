@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'OmegaDiabetes'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D3DB88A09A4F4745A478B96E13750404 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90323B4905844AEC8BBD85588DEE553B }}
